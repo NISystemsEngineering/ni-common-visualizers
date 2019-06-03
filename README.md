@@ -5,8 +5,11 @@ The LabVIEW Visualizers for Visual Studio integrate directly into the Visual Stu
 
 ### Screenshots:
 Hovering over types in the editor will show a magnifying glass. The same icon will be available in the watch window as well.
+
 ![](images/magnifying_glass.png "")
+
 Clicking the magnifying glass icon will open the type in the appropriate LabVIEW Visualizer.
+
 ![](images/rfvisualizer.png "")
 
 ### Dependencies:
