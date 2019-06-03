@@ -4,7 +4,7 @@
 The LabVIEW Visualizers for Visual Studio integrate directly into the Visual Studio IDE to provide a richer debugging experience when working with NI .NET types.
 
 ### Screenshots:
-Hovering over types in the editor will show a magnifying glass. The same icon will be available in the watch window as well.
+While execution is paused, hovering over types in the editor will reveal a magnifying glass icon. The same icon will be available in the watch window as well.
 
 ![](images/magnifying_glass.png "")
 
