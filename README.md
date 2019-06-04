@@ -6,11 +6,11 @@ The LabVIEW Visualizers for Visual Studio integrate directly into the Visual Stu
 ### Screenshots:
 While execution is paused, hovering over types in the editor will reveal a magnifying glass icon. The same icon will be available in the watch window as well.
 
-![](images/magnifying_glass.png "")
+![](doc/img/magnifying_glass.png "")
 
 Clicking the magnifying glass icon will open the type in the appropriate LabVIEW Visualizer.
 
-![](images/rfvisualizer.png "")
+![](doc/img/rfvisualizer.png "")
 
 ### Dependencies:
 - .NET Framework 4.0
