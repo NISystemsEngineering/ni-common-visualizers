@@ -17,7 +17,7 @@ Clicking the magnifying glass icon will open the type in the appropriate LabVIEW
 - LabVIEW Runtime Engine 2018 (32 bit)
 
 ### Installation Instructions:
-1. Unpack the latest release into the Visual Studio 20xx Visualizers folder located in the user Documents folder. The full path will be similar to C:\Users\<YOUR USERNAME>\Documents\Visual Studio 20xx\Visualizers.
+1. Unpack the latest [release](https://github.com/NISystemsEngineering/LabVIEW-Visualizers-DotNET/releases) into the Visual Studio 20xx Visualizers folder located in the user Documents folder. The full path will be similar to C:\Users\<YOUR USERNAME>\Documents\Visual Studio 20xx\Visualizers.
 2. Restart Visual Studio
 
 ### Currently supported types:
