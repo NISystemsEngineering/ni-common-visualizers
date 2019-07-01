@@ -34,7 +34,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{86A4F759-69A0-4E58-B11A-A1255223EC20}</Property>
-				<Property Name="Bld_version.build" Type="Int">44</Property>
+				<Property Name="Bld_version.build" Type="Int">51</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">lvnetviz.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/lvnetviz.dll.dll</Property>
@@ -51,7 +51,7 @@
 				<Property Name="Dll_includeTypeLibrary" Type="Bool">true</Property>
 				<Property Name="Dll_libGUID" Type="Str">{C1C3847C-EA8D-47C2-8146-BCD2BB652F2F}</Property>
 				<Property Name="Dll_privateExecSys" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{78348312-7263-44F9-B904-A631F389A34B}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{CB06E1C8-EA73-4274-84B3-B72F7F711192}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].ExportedVI.VIProtoInfo[0]VIProtoDir" Type="Int">4</Property>
@@ -107,6 +107,49 @@
 				<Property Name="Source[10].itemID" Type="Ref">/My Computer/lvnetviz.lvlib/ComplexWaveform.lvclass/PowerStatistics.vim</Property>
 				<Property Name="Source[10].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[10].type" Type="Str">VI</Property>
+				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoDir" Type="Int">4</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoInputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoLenInput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoLenOutput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoName" Type="Str">return value</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoOutputIdx" Type="Int">0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[0]VIProtoPassBy" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoDir" Type="Int">0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoInputIdx" Type="Int">11</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoLenInput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoLenOutput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoName" Type="Str">f0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoOutputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[1]VIProtoPassBy" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoDir" Type="Int">0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoInputIdx" Type="Int">10</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoLenInput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoLenOutput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoName" Type="Str">df</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoOutputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[2]VIProtoPassBy" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoDir" Type="Int">0</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoInputIdx" Type="Int">9</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoLenInput" Type="Int">4</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoLenOutput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoName" Type="Str">Power</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoOutputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[3]VIProtoPassBy" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]CallingConv" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]Name" Type="Str">SpectrumVisualizer</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoDir" Type="Int">3</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoInputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoLenInput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoLenOutput" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoName" Type="Str">len</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoOutputIdx" Type="Int">-1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfo[4]VIProtoPassBy" Type="Int">1</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfoCPTM" Type="Bin">'!#!!!!!!!M!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!!!"!!)*:8*S&lt;X)A&lt;X6U!!1!!!!+1#%%&lt;G6X0Q!!#U!+!!6Q&lt;X&gt;F=A!31%!!!@````]!"A61&lt;X&gt;F=A!*1!I!!G2G!!!*1!I!!G9Q!!"5!0!!$!!$!!1!"!!%!!1!"!!&amp;!!1!"!!(!!A!#1-!!(A!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!1I!!!!+!!!!#A!!!!!"!!I</Property>
+				<Property Name="Source[11].ExportedVI.VIProtoInfoVIProtoItemCount" Type="Int">5</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/My Computer/lvnetviz.lvlib/Spectrum.lvclass/SpectrumVisualizer.vi</Property>
+				<Property Name="Source[11].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[11].type" Type="Str">ExportedVI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/lvnetviz.lvlib/ComplexWaveform.lvclass</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
@@ -138,7 +181,7 @@
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/lvnetviz.lvlib/ComplexWaveform.lvclass/PowerVsFrequency.vim</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">11</Property>
+				<Property Name="SourceCount" Type="Int">12</Property>
 				<Property Name="TgtF_companyName" Type="Str">National Instruments</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">lvnetviz.dll</Property>
 				<Property Name="TgtF_internalName" Type="Str">lvnetviz.dll</Property>

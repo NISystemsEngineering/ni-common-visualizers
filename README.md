@@ -21,7 +21,7 @@ Clicking the magnifying glass icon will open the type in the appropriate LabVIEW
 2. Restart Visual Studio
 
 ### Currently supported types:
-- ComplexWaveform\<ComplexSingle\>
-- ComplexWaveform\<ComplexDouble\>
 - ComplexSingle[]
 - ComplexDouble[]
+- ComplexWaveform\<T\>
+- Spectrum\<T\>

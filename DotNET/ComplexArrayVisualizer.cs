@@ -23,7 +23,7 @@ namespace NationalInstruments.ApplicationsEngineering.Visualizers
             var wfm = ComplexWaveform<T>.FromArray1D(complexArray);
             double[] real = wfm.GetRealDataArray(true);
             double[] imag = wfm.GetImaginaryDataArray(true);
-            LabVIEWVisualizers.ComplexWaveform(t0, dt, real, imag, wfm.SampleCount);
+            LabVIEWVisualizers.ComplexWaveform(t0, dt, real, imag);
         }
     }
 }

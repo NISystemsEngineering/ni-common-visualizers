@@ -41,6 +41,7 @@
     <Compile Include="ComplexWaveformVisualizer.cs" />
     <Compile Include="LabVIEWVisualizers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpectrumVisualizer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

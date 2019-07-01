@@ -8,4 +8,5 @@
 
 </Property>
 	<Item Name="ComplexWaveform.lvclass" Type="LVClass" URL="../ComplexWaveform/ComplexWaveform.lvclass"/>
+	<Item Name="Spectrum.lvclass" Type="LVClass" URL="../Spectrum/Spectrum.lvclass"/>
 </Library>
